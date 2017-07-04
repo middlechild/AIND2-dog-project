@@ -1,0 +1,14 @@
+.DS_Store
+dogImages
+lfw/
+.ipynb_checkpoints
+__pycache__
+
+saved_models/weights.best.from_scratch.hdf5
+saved_models/weights.best.vgg16.hdf5
+saved_models/weights.best.Resnet50.hdf5
+
+bottleneck_features/DogVGG16Data.npz
+bottleneck_features/DogResnet50Data.npz
+
+
